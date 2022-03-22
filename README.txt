@@ -16,7 +16,9 @@ How to play:
 
 4.	After clicking guess if a number turns red it means that the number in that position in the code you are trying to 
 	guess it one greater or one less than your guess.
+	
+5.	After clicking guess if a number remains black it means that the number in that position in the code is not within one or exactly your guess.
 
-5.	After all 5 guesses or whenever you feel as if you know the answer click the commit button to stop guessing (you 
+6.	After all 5 guesses or whenever you feel as if you know the answer click the commit button to stop guessing (you 
 	cannot guess after this). When committed 3 card’s will appear with a prompt to enter your final answer. After you 
 	click submit its game over!
