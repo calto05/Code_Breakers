@@ -1,7 +1,7 @@
 Running the project:
 
 If the project does not run through the github link then you need to download the files and click on the index.html
-filt to run the project. Chrome and Opera did not work with p5js so I needed to make some fixes. If the application
+file to run the project. Chrome and Opera did not work with p5js so I needed to make some fixes. If the application
 does not run in either of those browsers it runs originally in firefox so that may work.
 
 How to play:
